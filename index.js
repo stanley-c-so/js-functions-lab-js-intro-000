@@ -5,13 +5,13 @@ function happyHolidays() {
 }
 
 function happyHolidaysTo(name) {
-  return "Happy holidays!";
+  return `Happy holidays, ${name}!`;
 }
 
-function happyHolidays() {
-  return "Happy holidays!";
+function happyHolidayTo(holiday, name) {
+  return `Happy ${holiday}, ${name}!`;
 }
 
-function happyHolidays() {
-  return "Happy holidays!";
+function happyHolidaysTo(name) {
+  return `Happy holidays, ${name}!`;
 }
